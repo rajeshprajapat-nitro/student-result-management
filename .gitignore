@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.pyo
+*.db
+tasks.json
+.env
+.DS_Store
