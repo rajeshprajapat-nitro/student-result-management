@@ -7,7 +7,7 @@ A console-based Python application to manage student results using SQLite databa
 - View all students sorted by percentage
 - Search student by name or roll number
 - Update existing student marks
-- Delete student records
+- Delete student records 
 - Auto-calculates Total, Percentage, and Grade
 
 ## Grade Scale
