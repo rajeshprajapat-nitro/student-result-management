@@ -1,7 +1,7 @@
 # Student Result Management System
       
 A console-based Python application to manage student results using SQLite database. Supports full CRUD operations with automatic grade calculation.
- 
+  
 ## Features
 - Add students with marks for 5 subjects
 - View all students sorted by percentage
