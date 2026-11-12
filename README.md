@@ -1,4 +1,4 @@
-# Student Result Management System
+# Student Result Management System 
        
 A console-based Python application to manage student results using SQLite database. Supports full CRUD operations with automatic grade calculation.
   
