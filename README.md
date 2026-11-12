@@ -10,7 +10,7 @@ A console-based Python application to manage student results using SQLite databa
 - Delete student records 
 - Auto-calculates Total, Percentage , and Grade
 
-## Grade Scale
+## Grade Scale 
 | Percentage | Grade |
 |------------|-------|
 | 90 - 100   | A+    |
